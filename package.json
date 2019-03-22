@@ -1,0 +1,11 @@
+{
+  "name": "workout-blog-api",
+  "version": "1.0.0",
+  "description": "Api backend for work-out blog",
+  "main": "app.j",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Warren Brown",
+  "license": "ISC"
+}
