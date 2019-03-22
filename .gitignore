@@ -4,7 +4,3 @@
 # System Files
 .DS_Store
 Thumbs.db
-
-**/.env
-**/dist
-**/node_modules
